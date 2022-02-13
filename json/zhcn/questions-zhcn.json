@@ -464,7 +464,7 @@
     }
   },
   "aboveall1": {
-    "question": "国家的重要性应该高于一切吗？",
+    "question": "民族的重要性应该高于一切吗？",
     "answers": [
       "yes",
       "no"
@@ -488,7 +488,7 @@
     "nextquestion": {}
   },
   "rev_ed": {
-    "question": "是否应该有一个革命党，在革命期间和革命后对群众进行灌输？",
+    "question": "是否应该有一个革命党，在革命期间和革命后对群众进行教导？",
     "answers": [
       "yes",
       "no"
@@ -639,7 +639,7 @@
     }
   },
   "aboveall2": {
-    "question": "国家的重要性应该高于一切吗？",
+    "question": "民族的重要性应该高于一切吗？",
     "answers": [
       "yes",
       "no"
